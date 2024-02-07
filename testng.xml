@@ -1,0 +1,13 @@
+<suite name="Suite">
+<test thread-count="5" name="Test1">
+<parameter name="os" value="Windows"/>
+<parameter name="browser" value="chrome"/>
+<classes>
+<class name="testcase.TC1"/>
+<class name="testcase.TC2"/>
+<class name="testcase.TC3"/>
+</classes>
+</test>
+<!--   Test   -->
+</suite>
+<!--   Suite   -->
