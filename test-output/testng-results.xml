@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-07T11:32:02 IST" name="Suite" finished-at="2024-02-07T11:33:45 IST" duration-ms="102855">
+  <suite started-at="2024-02-07T12:22:34 IST" name="Suite" finished-at="2024-02-07T12:24:49 IST" duration-ms="134752">
     <groups>
     </groups>
-    <test started-at="2024-02-07T11:32:02 IST" name="Test1" finished-at="2024-02-07T11:33:45 IST" duration-ms="102855">
+    <test started-at="2024-02-07T12:22:34 IST" name="Test1" finished-at="2024-02-07T12:24:49 IST" duration-ms="134752">
       <class name="testcase.TC3">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcase.TC3@1a677343]" started-at="2024-02-07T11:33:18 IST" name="setup" finished-at="2024-02-07T11:33:29 IST" duration-ms="10902" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcase.TC3@1a677343]" started-at="2024-02-07T12:24:12 IST" name="setup" finished-at="2024-02-07T12:24:34 IST" duration-ms="22034" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,17 +23,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="thirdcase()[pri:2, instance:testcase.TC3@1a677343]" started-at="2024-02-07T11:33:29 IST" name="thirdcase" finished-at="2024-02-07T11:33:33 IST" duration-ms="4104" status="PASS">
+        <test-method signature="thirdcase()[pri:2, instance:testcase.TC3@1a677343]" started-at="2024-02-07T12:24:34 IST" name="thirdcase" finished-at="2024-02-07T12:24:38 IST" duration-ms="3664" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- thirdcase -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testcase.TC3@1a677343]" started-at="2024-02-07T11:33:33 IST" name="teardown" finished-at="2024-02-07T11:33:45 IST" duration-ms="11669" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcase.TC3@1a677343]" started-at="2024-02-07T12:24:38 IST" name="teardown" finished-at="2024-02-07T12:24:49 IST" duration-ms="10593" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- testcase.TC3 -->
       <class name="testcase.TC2">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcase.TC2@6ed3ccb2]" started-at="2024-02-07T11:32:41 IST" name="setup" finished-at="2024-02-07T11:32:51 IST" duration-ms="9308" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcase.TC2@6ed3ccb2]" started-at="2024-02-07T12:23:37 IST" name="setup" finished-at="2024-02-07T12:23:45 IST" duration-ms="8351" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -49,17 +49,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="secondcase()[pri:2, instance:testcase.TC2@6ed3ccb2]" started-at="2024-02-07T11:32:51 IST" name="secondcase" finished-at="2024-02-07T11:33:07 IST" duration-ms="16578" status="PASS">
+        <test-method signature="secondcase()[pri:2, instance:testcase.TC2@6ed3ccb2]" started-at="2024-02-07T12:23:45 IST" name="secondcase" finished-at="2024-02-07T12:24:02 IST" duration-ms="16535" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- secondcase -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testcase.TC2@6ed3ccb2]" started-at="2024-02-07T11:33:07 IST" name="teardown" finished-at="2024-02-07T11:33:18 IST" duration-ms="10679" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcase.TC2@6ed3ccb2]" started-at="2024-02-07T12:24:02 IST" name="teardown" finished-at="2024-02-07T12:24:12 IST" duration-ms="10649" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- testcase.TC2 -->
       <class name="testcase.TC1">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcase.TC1@9d5509a]" started-at="2024-02-07T11:32:02 IST" name="setup" finished-at="2024-02-07T11:32:14 IST" duration-ms="12432" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcase.TC1@9d5509a]" started-at="2024-02-07T12:22:34 IST" name="setup" finished-at="2024-02-07T12:23:10 IST" duration-ms="35867" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -75,11 +75,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="makemytrip()[pri:1, instance:testcase.TC1@9d5509a]" started-at="2024-02-07T11:32:14 IST" name="makemytrip" finished-at="2024-02-07T11:32:29 IST" duration-ms="15195" status="PASS">
+        <test-method signature="makemytrip()[pri:1, instance:testcase.TC1@9d5509a]" started-at="2024-02-07T12:23:10 IST" name="makemytrip" finished-at="2024-02-07T12:23:26 IST" duration-ms="16163" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- makemytrip -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testcase.TC1@9d5509a]" started-at="2024-02-07T11:32:29 IST" name="teardown" finished-at="2024-02-07T11:32:41 IST" duration-ms="11845" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcase.TC1@9d5509a]" started-at="2024-02-07T12:23:26 IST" name="teardown" finished-at="2024-02-07T12:23:37 IST" duration-ms="10714" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
